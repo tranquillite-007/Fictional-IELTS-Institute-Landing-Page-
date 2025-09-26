@@ -75,13 +75,13 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository**
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/tranquillite-007/Fictional-IELTS-Institute-Landing-Page-.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd fluent-frontiers-main
+   cd Fictional-IELTS-Institute-Landing-Page- (rename for ease 😁)
    ```
 
 3. **Install dependencies**
