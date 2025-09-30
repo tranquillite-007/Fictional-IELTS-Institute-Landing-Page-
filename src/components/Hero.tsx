@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="relative bg-hero-gradient text-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-24">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-          {/* Content */}
+       
           <div className="space-y-8">
             <div className="flex items-center space-x-2">
               <div className="flex items-center">
@@ -62,7 +62,7 @@ const Hero = () => {
             </div>
           </div>
 
-          {/* Image */}
+        
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-strong">
               <img
@@ -73,7 +73,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
             </div>
 
-            {/* Floating elements */}
+          
             <div className="absolute -top-4 -left-4 bg-accent text-accent-foreground rounded-full p-4 shadow-medium">
               <Star className="h-6 w-6 fill-current" />
             </div>
